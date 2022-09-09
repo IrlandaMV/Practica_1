@@ -10,7 +10,7 @@ namespace Practica_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Irlanda Maldonado Velez,Mexicali,23");
+            Console.WriteLine("Irlanda Maldonado Velez,Mexicali,23,hola");
             Console.ReadKey();
                 
         }
